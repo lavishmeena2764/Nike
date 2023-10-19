@@ -1,0 +1,35 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_484_151)">
+<rect width="390" height="844" fill="black"/>
+<g filter="url(#filter0_f_484_151)">
+<circle cx="275.5" cy="52.5" r="8.5" fill="#04F6F7"/>
+<circle cx="87" cy="48" r="21" fill="#04F6F7"/>
+<circle cx="219" cy="169" r="32" fill="#04F6F7"/>
+<circle cx="369.5" cy="126.5" r="8.5" fill="#04F6F7"/>
+<circle cx="132" cy="329" r="24" fill="#04F6F7"/>
+<circle cx="219.5" cy="394.5" r="21.5" fill="#04F6F7"/>
+<circle cx="8.5" cy="466.5" r="8.5" fill="#04F6F7"/>
+<circle cx="195" cy="493" r="27" fill="#04F6F7"/>
+<circle cx="291.5" cy="556.5" r="8.5" fill="#04F6F7"/>
+<circle cx="207" cy="626" r="19" fill="#04F6F7"/>
+<circle cx="19" cy="685" r="19" fill="#04F6F7"/>
+<circle cx="198.5" cy="762.5" r="12.5" fill="#04F6F7"/>
+<circle cx="318.5" cy="762.5" r="8.5" fill="#04F6F7"/>
+<circle cx="181.5" cy="832.5" r="20.5" fill="#04F6F7"/>
+<circle cx="105.5" cy="766.5" r="12.5" fill="#04F6F7"/>
+<circle cx="378.5" cy="390.5" r="17.5" fill="#04F6F7"/>
+<circle cx="14.5" cy="343.5" r="14.5" fill="#04F6F7"/>
+<circle cx="213" cy="269" r="15" fill="#04F6F7"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_484_151" x="-50" y="-23" width="496" height="926" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="25" result="effect1_foregroundBlur_484_151"/>
+</filter>
+<clipPath id="clip0_484_151">
+<rect width="390" height="844" fill="white"/>
+</clipPath>
+</defs>
+</svg>
